@@ -2,6 +2,7 @@
 name = "Typify"
 version = "0.1.0"
 edition = "2021"
+authors = ["James Aaron Erang"]
 
 [dependencies]
 gtk = { version = "0.9.1", package = "gtk4", features = ["v4_12"] }
