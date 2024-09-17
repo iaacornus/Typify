@@ -1,9 +1,0 @@
-[package]
-name = "Typify"
-version = "0.1.0"
-edition = "2021"
-authors = ["James Aaron Erang"]
-
-[dependencies]
-gtk = "0.9.1"
-libadwaita = "0.7.0"
