@@ -15,6 +15,8 @@
 // along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 
+const APP_ID: &str = "io.github.iaacornus.Typify";
+
 fn main() {
     println!("Hello, world!");
 }
